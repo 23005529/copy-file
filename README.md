@@ -22,9 +22,9 @@ Copy the content of text file to empty file using write function.
 ### Developed by: Aliya Sheema
 ### Register Number: 23005529
 ```
-with open("shyam.txt",'r') as file1:
+with open("aliya.txt",'r') as file1:
     msg=file1.read()
-with open("shyamnew.txt",'w') as file2:
+with open("aliyanew.txt",'w') as file2:
     file2.write(msg)
  ```   
 ### OUTPUT:
